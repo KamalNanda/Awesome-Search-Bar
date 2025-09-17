@@ -1,0 +1,107 @@
+[
+	{
+		"id": 1,
+		"name": "Kamal nanda", 
+		"type": "person",
+		"status": "inactive",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/WhatsApp_Image_2021-05-12_at_01.44.10_LcDOXxYKN.jpeg?updatedAt=1620764085138"
+	},
+	{
+		"id": 2,
+		"name": "Jane Doe",
+		"type": "person",
+		"status": "active",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/WhatsApp_Image_2020-12-20_at_23.47.34_MTxIeaXJA.jpeg?updatedAt=1608488487274"
+	},
+	{
+		"id": 3,
+		"name": "Geralt-cool_4zPKBRJxo.jpg",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/Geralt-cool_4zPKBRJxo.jpg?updatedAt=1610088586261",
+		"location": "Downloads"
+	},
+	{
+		"id": 4,
+		"name": "John Smith",
+		"type": "person",
+		"status": "active",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/GitHub_pic_VTNgA7CM4.jpeg?updatedAt=1620763906174"
+	},
+	{
+		"id": 5,
+		"name": "Ava Johnson",
+		"type": "person",
+		"status": "inactive",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/chirag_photo_p7uF3KvpFm.jpg?updatedAt=1613337699096"
+	},
+	{
+		"id": 6,
+		"name": "Liam Brown",
+		"type": "person",
+		"status": "active",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/mohak_photo_square_AKyumygOx.jpg?updatedAt=1613337698576"
+	},
+	{
+		"id": 7,
+		"name": "Olivia Davis",
+		"type": "person",
+		"status": "inactive",
+		"image_url": "https://i.pravatar.cc/150?img=11"
+	},
+	{
+		"id": 8,
+		"name": "Noah Wilson",
+		"type": "person",
+		"status": "active",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/ylUBfYIBfe1fhsCbdCUj8uIN6QutTLz9AlA9qM9t_cHaq_Rjlo2.jpeg?updatedAt=1613330425650"
+	},
+	{
+		"id": 9,
+		"name": "Project-Proposal-Q4.pdf",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/Project-Proposal-Q4.pdf",
+		"location": "Documents"
+	},
+	{
+		"id": 10,
+		"name": "Monthly-Report-Aug.xlsx",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/Monthly-Report-Aug.xlsx",
+		"location": "Work"
+	},
+	{
+		"id": 11,
+		"name": "Team-Photo.jpg",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/team-photo.jpg",
+		"location": "Pictures"
+	},
+	{
+		"id": 12,
+		"name": "Resume-Jane-Doe.pdf",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/Resume-Jane-Doe.pdf",
+		"location": "Downloads"
+	},
+	{
+		"id": 13,
+		"name": "Invoice-2025-09-15.pdf",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/Invoice-2025-09-15.pdf",
+		"location": "Finance"
+	},
+	{
+		"id": 14,
+		"name": "Emma Martinez",
+		"type": "person",
+		"status": "active",
+		"image_url": "https://ik.imagekit.io/hbj42mvqwv/ylUBfYIBfe1fhsCbdCUj8uIN6QutTLz9AlA9qM9t_cHaq_Rjlo2.jpeg?updatedAt=1613330425650"
+	},
+	{
+		"id": 15,
+		"name": "Design-Mockup.sketch",
+		"type": "file",
+		"file_url": "https://ik.imagekit.io/hbj42mvqwv/sample-folder/design-mockup.sketch",
+		"location": "Design"
+	}
+]
