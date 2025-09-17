@@ -35,15 +35,15 @@ export const SearchBar = () => {
 
     useEffect(() => { 
         set_data(() => {
-            if(selected_result_type == 'all') return filtered_data
+            if(selected_result_type === 'all') return filtered_data
             return filtered_data.filter((item) => item.type === selected_result_type)
         })
-    }, [selected_result_type])
+    }, [selected_result_type,filtered_data])
 
     const handle_search = (value) => {
         set_search_query(value) 
         set_filtered_data(() => {
-            if(value == '') return []
+            if(value === '') return []
             return file_data.filter((item) => item.name.toLowerCase().includes(value.toLowerCase()))
         }) 
     }

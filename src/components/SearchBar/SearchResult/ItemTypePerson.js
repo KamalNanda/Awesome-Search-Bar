@@ -12,7 +12,7 @@ const ItemTypePersonWrapper = styled(ResultItemWrapper)`
         width: 10px;
         height: 10px;
         border-radius: 50%;
-        background-color: ${({['data-status']: status}) => status === 'active' ? '#21c55d' : 'red'};
+        background-color: ${props => props.status === 'active' ? '#21c55d' : 'red'};
         border: 2px solid #fff;
         right: 4px;
         bottom: -4px;
@@ -24,7 +24,7 @@ const ItemTypePersonWrapper = styled(ResultItemWrapper)`
  
 export const ItemTypePerson = ({item}) => {
 
-    return <ItemTypePersonWrapper key={item.id} data-status={item.status}>
+    return <ItemTypePersonWrapper key={item.id} status={item.status}>
         <div className="avatar">
             <img src={item.image_url} alt={item.name} />
         </div>

@@ -1,7 +1,5 @@
 import styled from "styled-components"
-import { IoSettingsOutline } from "react-icons/io5";
-import { useEffect, useState } from "react";
-
+import { IoSettingsOutline } from "react-icons/io5"; 
 const ConfigureResultTypeWrapper = styled.div`
     button {
         border: none; 

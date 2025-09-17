@@ -66,7 +66,7 @@ export const ResultTypes = (props) => {
                 </ResultTypeWrapper>
             </div>
             {
-                result_types?.filter(result_type => result_type.show == true).map((result_type) => (
+                result_types?.filter(result_type => result_type.show === true).map((result_type) => (
                     <div 
                         key={result_type.id} 
                         onClick={() => {
